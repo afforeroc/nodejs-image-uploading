@@ -1,8 +1,11 @@
 # Node.js Image Uploading With Multer
 
-## Tutorial
+## Config and usage tutorial
 
-### 1. Install NodeJS and NPM
+### 0. System requirements
+* Ubuntu 20.04 LTS
+
+### 1. Install NodeJS, NPM and nodemon
 1.1 Install [Node.js](https://nodejs.org/en/).
 ```
 sudo apt install nodejs
@@ -20,7 +23,7 @@ npm --version
 ```
 
 ### 2. Install dependencies
-2.1 Go to root folder
+2.1 Go to root folder of app
 ```
 cd nodejs-image-uploading/
 ```
@@ -30,13 +33,13 @@ cd nodejs-image-uploading/
 npm install
 ```
 
-### 3. Execute the app
+### 3. Run the app
 3.1 Run the app
 ```
-nodemon
+node app.js
 ```
 
-3.2 Open [localhost:3000](https://localhost:3000/)
+3.2 Open [localhost:3000](localhost:3000)
 
 3.3 Stop the app with <kbd>ctrl</kbd> + <kbd>C</kbd>.
 
