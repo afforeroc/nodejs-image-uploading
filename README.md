@@ -39,7 +39,7 @@ npm install
 node app.js
 ```
 
-3.2 Open [localhost:3000](localhost:3000)
+3.2 Open [localhost:3000](http://localhost:3000/)
 
 3.3 Stop the app with <kbd>ctrl</kbd> + <kbd>C</kbd>.
 
